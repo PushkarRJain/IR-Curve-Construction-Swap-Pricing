@@ -373,7 +373,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🏷️ **Keywords for Recruiters**
+## 🏷️ **Keywords**
 
 `quantitative finance` `derivatives pricing` `interest rate models` `risk management` `monte carlo simulation` `yield curve construction` `swap pricing` `volatility modeling` `financial engineering` `python` `scipy` `numpy` `pandas` `matplotlib` `trading systems` `market data` `calibration` `bootstrapping` `greeks calculation` `value at risk` `key rate duration` `multi-curve framework` `ois` `sofr` `libor` `swaptions` `black-scholes` `portfolio analytics` `stress testing` `model validation` `performance optimization` `real-time pricing` `institutional trading` `sell-side` `buy-side` `rates trading` `fixed income` `systematic trading` `algorithmic trading`
 
