@@ -1,4 +1,3 @@
-# IR-Curve-Construction-Swap-Pricing
 # Interest Rate Curve Construction & Swap Pricing Framework
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
